@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "890302536450",
+    "firebase_url": "https://test-d9665.firebaseio.com",
+    "project_id": "test-d9665",
+    "storage_bucket": "test-d9665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890302536450:android:e80979ce359b63bb",
+        "android_client_info": {
+          "package_name": "co.ach.com.onlinemm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBezzBenUjAaHmizRAfLy5p0NvceTbac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890302536450-cagc71uq96gikoa10lhuij0g8m6pj545.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890302536450:android:52d187ded1aec533",
+        "android_client_info": {
+          "package_name": "com.cc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBezzBenUjAaHmizRAfLy5p0NvceTbac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890302536450-cagc71uq96gikoa10lhuij0g8m6pj545.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890302536450:android:9835221a960c5608",
+        "android_client_info": {
+          "package_name": "com.example.tawfik.kidsmusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBezzBenUjAaHmizRAfLy5p0NvceTbac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890302536450-cagc71uq96gikoa10lhuij0g8m6pj545.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890302536450:android:99fa7187e507676e",
+        "android_client_info": {
+          "package_name": "com.example.tawfik.ofpptpdf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBezzBenUjAaHmizRAfLy5p0NvceTbac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890302536450-cagc71uq96gikoa10lhuij0g8m6pj545.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890302536450:android:ba641b35a334a9ec",
+        "android_client_info": {
+          "package_name": "com.example.tawfik.onlinemp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBezzBenUjAaHmizRAfLy5p0NvceTbac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890302536450-cagc71uq96gikoa10lhuij0g8m6pj545.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890302536450:android:345a377d31c91acf",
+        "android_client_info": {
+          "package_name": "com.uy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBezzBenUjAaHmizRAfLy5p0NvceTbac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890302536450-cagc71uq96gikoa10lhuij0g8m6pj545.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890302536450:android:6c2ed2014d239436",
+        "android_client_info": {
+          "package_name": "elmers.The.Zombies.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBezzBenUjAaHmizRAfLy5p0NvceTbac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890302536450-cagc71uq96gikoa10lhuij0g8m6pj545.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890302536450:android:563dab1d7f6e3a2a",
+        "android_client_info": {
+          "package_name": "elmers.The.Zombies.test2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBezzBenUjAaHmizRAfLy5p0NvceTbac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890302536450-cagc71uq96gikoa10lhuij0g8m6pj545.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">onlinemm</string>
+    <string name="title_activity_listsong">Listsong</string>
 </resources>
